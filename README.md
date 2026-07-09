@@ -4,7 +4,7 @@ Proyecto de análisis de datos musicales basado en datasets de canciones de Spot
 
 El objetivo es conseguir una comparativa de diferentes sistemas de recomendación musicales basados en similitud en diferentes espacios reducidos.
 
-Estos espacios reducdios se construyen con diferentes técnicas multivariantes (PCA, MCA; CATPCA y UMAP) tras la debida exploración inicial, limpieza y preprocesamiento y análisis de características de audio.
+Estos espacios reducidos se construyen con diferentes técnicas multivariantes (PCA, MCA; CATPCA y UMAP) tras la debida exploración inicial, limpieza y preprocesamiento y análisis de características de audio.
 
 ## Contenido del proyecto
 
