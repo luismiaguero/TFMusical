@@ -8,12 +8,14 @@ Estos espacios reducdios se construyen con diferentes técnicas multivariantes (
 
 El repositorio incluye scripts y notebooks para:.
 
-- Limpiar y preparar los datos.
-- Escalar variables numéricas.
-- Aplicar PCA, UMAP y análisis factorial.
-- Crear agrupaciones con K-Means y otros métodos.
-- Evaluar clusters con métricas como Silhouette Score, Davies-Bouldin Score y Calinski-Harabasz Score.
-- Generar gráficos y resultados interpretables.
+- Limpieza y preprocesamiento de datos.
+- Análisis previo univariante y multivariante para la adecuación de las variables y los datos..
+- Comaprador de diferentes modelos candidatos.
+- Construcción de los espacios reducidos PCA, MCA, CATPCA y UMAP.
+- Clusterización y estudio itnerpretativo de los espacios generados.
+- Implementación de los sistemas de recomendación basados en los diferentes modelos.
+- Puesta en práctica, uso con ejemplos.
+- Comaprativa y evaluación de los diferentes sistemas de recomendación.
 
 Además se incluyen los datasets con los que se trabajan dentro del propio repositorio.
 
